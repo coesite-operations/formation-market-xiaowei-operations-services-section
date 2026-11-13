@@ -1,6 +1,6 @@
 {
   "kind": "node-micro-enterprise-constitution",
-  "node": "formation-market-xiaowei",
+  "node": "formation-market-xiaowei-operations-services-section",
   "rights": ["decision", "personnel", "distribution"],
   "rightsEvidence": {
     "decision": "authors or refuses its own capability bid",

@@ -1,6 +1,6 @@
 {
-  "id": "formation-market-xiaowei",
-  "actor": "urn:ame:formation-market-xiaowei",
+  "id": "formation-market-xiaowei-operations-services-section",
+  "actor": "urn:ame:formation-market-xiaowei-operations-services-section",
   "capabilityIds": ["formation-market-brokerage"],
   "contributionUnits": 1.2,
   "conditions": ["all capabilities are covered", "selection is mutual", "receiver outcome controls settlement"],
